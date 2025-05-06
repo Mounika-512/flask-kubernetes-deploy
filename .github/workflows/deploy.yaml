@@ -8,7 +8,7 @@ on:
 env:
   ECR_REPOSITORY: test
   EKS_CLUSTER_NAME: my-cluster 
-  AWS_REGION: us-east-2
+  AWS_REGION: us-west-2
 
 jobs:
   
